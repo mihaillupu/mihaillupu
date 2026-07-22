@@ -21,7 +21,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![UV](https://img.shields.io/badge/UV-0078D4?style=for-the-badge&logo=uv&logoColor=white)
 
 ## Version control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Forgejo](https://img.shields.io/badge/Forgejo-323330?style=for-the-badge&logo=forgejo&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Workers](https://img.shields.io/badge/Workers-000000?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mihaillupu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
