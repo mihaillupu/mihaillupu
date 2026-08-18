@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mihail%20Lupu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20IoT%20%26%20Full-Stack%20Engineer&descAlignY=55&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mihail%20Lupu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20IoT%20x%20Full-Stack%20Engineer&descAlignY=55&descSize=16)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mihail%20Lupu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20IoT%20x%20Full-Stack%20Engineer&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+end-to-end+platforms;From+sensors+to+servers;Python+%7C+FastAPI+%7C+Next.js;Always+shipping+something+new" alt="Typing SVG" />
 
